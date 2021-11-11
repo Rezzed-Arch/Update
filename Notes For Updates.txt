@@ -1,0 +1,35 @@
+﻿C00kie.ClickerV.2.4.7 Patch Notes.
+ Fixed Click Problems 
+ Fixed Banner Ads
+Correction to cursor prices
+------------------------------------------------
+C00kie.ClickerV2.4.9 
+Disabled Infinite money cheat 
+Added name picking
+Temporary disable to Auto clicker
+------------------------------------------------
+C00kie.ClickerV2.5.0
+Re enabled Auto clicker
+Easter Eggs Added
+Ad blocker enabled
+Added System from Trixter9994 
+Achievements added
+-------------------------------------------------
+C00kie.ClickerV2.5.1
+Added Optional languages
+Device Sync
+Added C00kie skins
+Added Click Champions mode
+Added Optional Cheats
+Cookie Picture change
+----------------------------------------
+C00kie.ClickerV2.5.2
+Added Cursor skins 
+Disabled Double click for speed
+Now supports ios or tablet
+Added secret language called kix that can be found by a achievement 
+--------------------------------------------------------------------------------------------------
+C00kie.ClickerV2.5.3
+Added keyboard Clicks Use F key or Spacebar
+Disabled spacebar scroll for keyboard clicker
+Disabled Ad interruptions that were not blocked by a Ad blocker.
